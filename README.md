@@ -99,5 +99,5 @@
    
 ## 3. References
 
-* https://medium.com/@lamiae.hana/a-step-by-step-guide-on-sentiment-analysis- with-rnn-and-lstm-3a293817e314
+* https://medium.com/@lamiae.hana/a-step-by-step-guide-on-sentiment-analysis-with-rnn-and-lstm-3a293817e314
 * https://code.google.com/archive/p/word2vec/
